@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "grafo.h": "c",
+        "array": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "printter.h": "c"
+    }
+}
